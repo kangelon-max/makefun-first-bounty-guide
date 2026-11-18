@@ -1,0 +1,26 @@
+# Never publish signing keys, credentials or private evidence.
+.env
+.env.*
+!.env.example
+*keypair*.json
+wallet.json
+wallet-*.json
+credentials
+pending-connect.json
+transcripts*
+*.jsonl
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+*.tar.gz
+makefun-run.json
+system-prompt*
+redact*
+
+# Local tools, previews and operating-system noise.
+node_modules/
+.venv/
+__pycache__/
+.DS_Store
