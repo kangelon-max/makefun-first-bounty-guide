@@ -90,7 +90,8 @@ Untuk **Bring the humans again**, cocokkan dengan [requirements resmi terkini](h
 - [ ] Root `screenshot.png` merupakan screenshot asli repo GitHub yang sudah publik dengan README terlihat, maksimal 8 MB dan 16.000.000 piksel. Bagian atas memperlihatkan nama repo dan awal README.
 - [ ] Ada lisensi OSI-approved. Tidak ada rahasia, keypair, atau bundle transkrip di repo publik maupun riwayatnya.
 - [ ] Rekaman asli memperlihatkan draft, pemeriksaan, dan revisi. Run record, instruction context/system prompt, serta parent chat untuk run yang diserahkan dari agent lain tersedia sesuai aturan.
-- [ ] Commit yang dikirim sudah di-push pada branch; pemeriksaan lokal dan kuota ditinjau; receipt serta status server diperiksa sebelum deadline.
+- [ ] Commit yang dikirim sudah di-push pada branch; pemeriksaan lokal dan kuota ditinjau.
+- [ ] Setelah kirim: simpan receipt, baca status penerimaan, dan selesaikan kegagalan sebelum deadline.
 
 Jika mau membuat entry panduan sendiri, ambil kode milikmu di tab Referrals profil, lalu tulis panduan orisinal dari sesi yang memenuhi syarat. Kode dalam panduan ini milik penulisnya; izin menyalin tidak membuktikan kepemilikan repo atau authorship kompetisi.
 

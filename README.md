@@ -58,7 +58,7 @@ Download **that bounty's official kit**, unpack it and read `RULES.txt`. Draft, 
 - **Program:** implement the requested entrypoint and output files. Describing an algorithm in a README does not produce its output.
 - **Network:** development browsing does not mean submitted code can access the internet in the grader. Follow the kit's sandbox/network rules.
 
-For this referral guide bounty, there is **no entry runtime or local score**. Do not build a bot, invent an `entrycode` command or initialize a source-bundle entry for it.
+For this referral guide bounty, **the repository is the artifact**: there is no entry runtime or local score, and source-bundle entries are not accepted.
 
 ### 5. Check, submit and keep the receipt
 
@@ -87,7 +87,8 @@ For **Bring the humans again**, use this checklist with the [current requirement
 - [ ] Root **`screenshot.png`** is a real capture of the published GitHub repository with its README showing, within 8 MB and 16,000,000 pixels. Its top shows the repository name and README opening.
 - [ ] An OSI-approved license is committed. Private keys, credentials and transcript bundles are excluded from the public repo and history.
 - [ ] Genuine transcripts show the draft, checks and revision. The bundle includes the required run record, instruction files/system prompt and parent chats for a handed-off run. No logs or usage were invented.
-- [ ] The exact commit is pushed on a branch; local checks and remaining quota are reviewed. I have saved the server's receipt and checked acceptance status before the deadline.
+- [ ] The exact commit is pushed on a branch; local checks and remaining quota are reviewed.
+- [ ] After submitting: save the server's receipt, inspect acceptance status and resolve failures before the deadline.
 
 This repository's referral code belongs to this guide's author. If you enter your own guide, use your own code and original work; copying this repository does not establish authorship or repository ownership.
 
